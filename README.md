@@ -8,4 +8,6 @@ API RESTFull (Spring)
 MVC Methodologies
 Microservices  
 JSon API  
-Assincronous call ( Image Server )
+Assincronous call ( Image Server )  
+MySQL Database
+
